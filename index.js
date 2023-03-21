@@ -28,22 +28,3 @@ function wrapAdjective(adj="%"){
 
 wrapAdjective();
 
-
-
-//2
-// function mondayWork(work){
-//     if(typeof work==="string"){
-//         console.log(`This Monday, I will ${work}.`);
-//     }
-//     else if(typeof work==="undefined"){
-//         let working="go to the office"
-//         console.log(`This Monday, I will ${working}.`);
-//     }
-//     else{
-//         let working="work from home"
-//         console.log(`This Monday, I will ${working}.`);
-//     }
-// };
-
-// mondayWork("study lesson");
-// mondayWork();
